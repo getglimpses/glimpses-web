@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/glimpses-web/static/js/app.f6ee3196.chunk.js",
-    "app.js.map": "/glimpses-web/static/js/app.f6ee3196.chunk.js.map",
+    "app.js": "/glimpses-web/static/js/app.4e74e01c.chunk.js",
+    "app.js.map": "/glimpses-web/static/js/app.4e74e01c.chunk.js.map",
     "runtime~app.js": "/glimpses-web/static/js/runtime~app.ee1a9966.js",
     "runtime~app.js.map": "/glimpses-web/static/js/runtime~app.ee1a9966.js.map",
     "static/js/2.971ea199.chunk.js": "/glimpses-web/static/js/2.971ea199.chunk.js",
@@ -30,6 +30,6 @@
   "entrypoints": [
     "static/js/runtime~app.ee1a9966.js",
     "static/js/2.971ea199.chunk.js",
-    "static/js/app.f6ee3196.chunk.js"
+    "static/js/app.4e74e01c.chunk.js"
   ]
 }
