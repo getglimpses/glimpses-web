@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/glimpses-web/static/js/app.4e74e01c.chunk.js",
-    "app.js.map": "/glimpses-web/static/js/app.4e74e01c.chunk.js.map",
+    "app.js": "/glimpses-web/static/js/app.8e3003b0.chunk.js",
+    "app.js.map": "/glimpses-web/static/js/app.8e3003b0.chunk.js.map",
     "runtime~app.js": "/glimpses-web/static/js/runtime~app.ee1a9966.js",
     "runtime~app.js.map": "/glimpses-web/static/js/runtime~app.ee1a9966.js.map",
-    "static/js/2.971ea199.chunk.js": "/glimpses-web/static/js/2.971ea199.chunk.js",
-    "static/js/2.971ea199.chunk.js.map": "/glimpses-web/static/js/2.971ea199.chunk.js.map",
+    "static/js/2.39df205d.chunk.js": "/glimpses-web/static/js/2.39df205d.chunk.js",
+    "static/js/2.39df205d.chunk.js.map": "/glimpses-web/static/js/2.39df205d.chunk.js.map",
     "fonts/AntDesign.ttf": "/glimpses-web/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/glimpses-web/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/glimpses-web/./fonts/Feather.ttf",
@@ -29,7 +29,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.ee1a9966.js",
-    "static/js/2.971ea199.chunk.js",
-    "static/js/app.4e74e01c.chunk.js"
+    "static/js/2.39df205d.chunk.js",
+    "static/js/app.8e3003b0.chunk.js"
   ]
 }
